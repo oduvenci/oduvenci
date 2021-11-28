@@ -1,6 +1,6 @@
 ### People call me Oz.
 
-Full-stack developer, curretly @ [MAJORITY](https://www.majority.com/en/)
+Full-stack developer, curretly @ [Rebtel](https://www.rebtel.com/en/)
 
 <!--
 **oduvenci/oduvenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
