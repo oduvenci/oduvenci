@@ -1,6 +1,10 @@
+![](/assets/stlm.png)
+
 ### People call me Oz.
 
-Full-stack developer
+**Versatile Software Engineer** with 6+ years in full-stack development. Forever learner, adaptable problem-solver
+
+Formerly [🎧 Acast](https://www.acast.com/), [☎️ Rebtel](https://www.rebtel.com/en/) & [🏦 MAJORITY](https://majority.com/en)
 
 <!--
 **oduvenci/oduvenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
